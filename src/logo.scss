@@ -21,9 +21,8 @@ body #itemDetailPage {
 	}
 	.detailLogo {
 		left: 18.8vw;
-		top: 17.5vh;
 		height: 30vh;
-		background-position: left bottom !important;
+		background-position: 0 100% !important;
 	}
 	&:has(.itemName.subtitle) {
 		.detailLogo {
